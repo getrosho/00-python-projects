@@ -1,3 +1,2 @@
 # Python Projects - Learning Data Science
-
 I'm currently learning Python with a focus on Data Science. This repository contains hands-on projects that I’m building to improve my Python programming skills and apply what I’ve learned in real-world scenarios. Each folder represents a separate project, covering a variety of concepts as I progress on my learning journey.
